@@ -4,5 +4,5 @@ begin_fill()
 while True:
     forward(200)
     left(200)
-    backward()
+    backward(200)
 done()
